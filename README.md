@@ -7,7 +7,7 @@
 ### <div align="center">Hi there, I'm Joni Bastian! 👋</div>  
   
 
-- I'm 3rd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id/)
+- I'm 4rd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id/)
 
 - Studying Machine Learning Path at [Bangkit 2022](https://grow.google/intl/id_id/bangkit/)
 
